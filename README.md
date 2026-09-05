@@ -20,7 +20,7 @@ Atualmente, meu principal projeto é o **ProjectFlow**, uma aplicação web comp
 
 **ProjectFlow** é uma aplicação web de gerenciamento de projetos e tarefas desenvolvida com Flask.
 
-[![Preview do ProjectFlow](assets/projectflow-preview.png)](https://projectflow-xpsw.onrender.com)
+[![Preview do ProjectFlow](https://raw.githubusercontent.com/Oliveira7-Dev/Oliveira7-Dev/main/projectflow-preview.png)](https://projectflow-xpsw.onrender.com)
 
 [![Acessar ProjectFlow](https://img.shields.io/badge/Acessar_ProjectFlow-6D5DFC?style=for-the-badge&logo=googlechrome&logoColor=white)](https://projectflow-xpsw.onrender.com)
 [![Ver código](https://img.shields.io/badge/Ver_Código_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oliveira7-Dev/projectflow)
