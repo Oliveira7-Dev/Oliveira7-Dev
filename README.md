@@ -51,8 +51,42 @@ Atualmente, busco aprimorar minhas habilidades através de projetos acadêmicos 
 - 🧪 Desenvolvimento e testes de aplicações
 
 ---
+# 🚀 Projeto Principal
 
-# 🚀 Projetos em Destaque
+# ⚡ ProjectFlow
+
+Sistema web completo para **gerenciamento de projetos e tarefas**, com autenticação, dashboard, banco de dados e interface responsiva para desktop e mobile.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oliveira7-Dev/projectflow/main/app/static/img/preview.png" width="850" alt="ProjectFlow Dashboard"/>
+</p>
+
+### 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,postgres,html,css,git" />
+</p>
+
+<p align="center">
+  🔐 Autenticação &nbsp; • &nbsp;
+  📊 Dashboard &nbsp; • &nbsp;
+  📁 Projetos &nbsp; • &nbsp;
+  ✅ Tarefas &nbsp; • &nbsp;
+  🗄️ PostgreSQL &nbsp; • &nbsp;
+  📱 Responsivo
+</p>
+
+<p align="center">
+  <a href="https://projectflow-xpsw.onrender.com">
+    <img src="https://img.shields.io/badge/ABRIR%20SISTEMA-6C63FF?style=for-the-badge&logo=render&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Oliveira7-Dev/projectflow">
+    <img src="https://img.shields.io/badge/VER%20CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+# 🚀 Projetos
 
 ## 💰 Controle Financeiro
 
