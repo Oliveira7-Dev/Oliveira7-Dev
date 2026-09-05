@@ -55,13 +55,21 @@ Atualmente, busco aprimorar minhas habilidades através de projetos acadêmicos 
 
 # ⚡ ProjectFlow
 
-Sistema web completo para **gerenciamento de projetos e tarefas**, com autenticação, dashboard, banco de dados e interface responsiva para desktop e mobile.
+Sistema web completo para **gerenciamento de projetos e tarefas**, com autenticação, dashboard, banco de dados e interface responsiva.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oliveira7-Dev/projectflow/main/app/static/img/preview.png" width="850" alt="ProjectFlow Dashboard"/>
+### 🖥️ Preview
+
+<p>
+  <a href="https://projectflow-xpsw.onrender.com">
+    <img 
+      src="https://raw.githubusercontent.com/Oliveira7-Dev/projectflow/main/app/static/img/preview.png"
+      width="800"
+      alt="Preview do ProjectFlow"
+    />
+  </a>
 </p>
 
-<h3>🛠️ Tecnologias</h3>
+### 🛠️ Tecnologias
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,flask,postgres,html,css,git" />
@@ -85,6 +93,8 @@ Sistema web completo para **gerenciamento de projetos e tarefas**, com autentica
     <img src="https://img.shields.io/badge/VER%20CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
+---
 
 # 🚀 Projetos
 
