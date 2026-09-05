@@ -111,7 +111,24 @@ O projeto foi desenvolvido utilizando uma estrutura modular, separando **rotas, 
 - 🔌 Estudando APIs e integração entre sistemas
 
 ---
+# 📊 Estatísticas do GitHub
 
+<p align="center">
+  <img 
+    src="https://github-readme-statistics.vercel.app/api?username=Oliveira7-Dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="180"
+    alt="Estatísticas do GitHub"
+  />
+
+<img 
+ src="https://github-readme-statistics.vercel.app/api/top-langs/?username=Oliveira7-Dev&layout=compact&theme=tokyonight&hide_border=true"
+ height="180"
+ alt="Linguagens mais utilizadas"
+/>
+
+</p>
+
+---
 
 # 🔥 Contribuições
 
