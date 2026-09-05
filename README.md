@@ -61,13 +61,13 @@ Sistema web completo para **gerenciamento de projetos e tarefas**, com autentica
   <img src="https://raw.githubusercontent.com/Oliveira7-Dev/projectflow/main/app/static/img/preview.png" width="850" alt="ProjectFlow Dashboard"/>
 </p>
 
-### 🛠️ Tecnologias
+<h3>🛠️ Tecnologias</h3>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=python,flask,postgres,html,css,git" />
 </p>
 
-<p align="center">
+<p>
   🔐 Autenticação &nbsp; • &nbsp;
   📊 Dashboard &nbsp; • &nbsp;
   📁 Projetos &nbsp; • &nbsp;
@@ -76,7 +76,7 @@ Sistema web completo para **gerenciamento de projetos e tarefas**, com autentica
   📱 Responsivo
 </p>
 
-<p align="center">
+<p>
   <a href="https://projectflow-xpsw.onrender.com">
     <img src="https://img.shields.io/badge/ABRIR%20SISTEMA-6C63FF?style=for-the-badge&logo=render&logoColor=white" />
   </a>
