@@ -122,13 +122,11 @@ O projeto foi desenvolvido utilizando uma estrutura modular, separando **rotas, 
 
 ---
 
-# 📊 GitHub
+# 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oliveira7-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveira7-Dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=Oliveira7-Dev&show_icons=true)
 
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveira7-Dev&layout=compact)
 ---
 
 # 🔥 Contribuições
