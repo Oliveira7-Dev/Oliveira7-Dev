@@ -58,7 +58,9 @@ Atualmente, busco aprimorar minhas habilidades através de projetos acadêmicos 
 
 Aplicação web para gerenciamento de receitas e despesas.
 
-`Python` `Flask` `SQLite` `HTML` `CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css" />
+</p>
 
 🔗 [Ver projeto](https://github.com/Oliveira7-Dev/controle-financeiro)
 
@@ -68,7 +70,9 @@ Aplicação web para gerenciamento de receitas e despesas.
 
 Aplicação em Java para criação, organização e controle de tarefas.
 
-`Java` `POO` `Git`
+<p>
+  <img src="https://skillicons.dev/icons?i=java,git" />
+</p>
 
 🔗 [Ver projeto](https://github.com/Oliveira7-Dev/gerenciador-tarefas-java)
 
@@ -78,7 +82,9 @@ Aplicação em Java para criação, organização e controle de tarefas.
 
 Sistema para cadastro de produtos e gerenciamento de estoque.
 
-`C#` `.NET` `POO` `LINQ`
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,git" />
+</p>
 
 🔗 [Ver projeto](https://github.com/Oliveira7-Dev/controle-estoque-csharp)
 
@@ -88,7 +94,9 @@ Sistema para cadastro de produtos e gerenciamento de estoque.
 
 API REST para gerenciamento de produtos com operações CRUD.
 
-`PHP` `REST` `JSON` `SQLite`
+<p>
+  <img src="https://skillicons.dev/icons?i=php,sqlite,git" />
+</p>
 
 🔗 [Ver projeto](https://github.com/Oliveira7-Dev/api-catalogo-php)
 
