@@ -52,10 +52,6 @@ Atualmente, busco aprimorar minhas habilidades através de projetos acadêmicos 
 
 ---
 
-# 🚀 Projetos
-
-> Meus projetos acadêmicos e pessoais estão em constante desenvolvimento.
-
 # 🚀 Projetos em Destaque
 
 ## 💰 Sistema de Controle Financeiro
