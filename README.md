@@ -1,4 +1,4 @@
-# 👨‍💻 João Oliveira
+# 👨‍💻 João Pedro Oliveira
 
 ### 🎓 Estudante de Engenharia de Software — 4º Semestre
 
