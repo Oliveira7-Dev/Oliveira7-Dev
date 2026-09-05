@@ -56,14 +56,49 @@ Atualmente, busco aprimorar minhas habilidades através de projetos acadêmicos 
 
 > Meus projetos acadêmicos e pessoais estão em constante desenvolvimento.
 
-### 📌 Projetos em Destaque
+# 🚀 Projetos em Destaque
 
-| Projeto | Tecnologia | Descrição |
-|--------|------------|-----------|
-| 🔹 Projeto 01 | Java | Aplicação desenvolvida para praticar POO e lógica de programação |
-| 🔹 Projeto 02 | Python | Projeto voltado para prática de programação e manipulação de dados |
-| 🔹 Projeto 03 | C# | Aplicação desenvolvida para praticar desenvolvimento de sistemas |
-| 🔹 Projeto 04 | PHP | Sistema web desenvolvido para praticar backend e banco de dados |
+## 💰 Sistema de Controle Financeiro
+
+Aplicação web desenvolvida para **gerenciamento de receitas e despesas**, permitindo o controle de movimentações financeiras através de uma interface simples e organizada.
+
+### ⚙️ Funcionalidades
+
+* 💵 Cadastro de receitas e despesas
+* ✏️ Edição de lançamentos
+* 🗑️ Exclusão de movimentações
+* 🔎 Filtro por tipo de lançamento
+* 📊 Dashboard com resumo financeiro
+* 💰 Cálculo automático de saldo
+* 🗄️ Persistência de dados com SQLite
+* ✅ Validação de formulários
+* 🧪 Testes automatizados
+
+### 🛠️ Tecnologias utilizadas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,git,github" />
+</p>
+
+### 📂 Estrutura do projeto
+
+O projeto foi desenvolvido utilizando uma estrutura modular, separando **rotas, acesso ao banco de dados, regras de persistência, templates, arquivos estáticos e testes**.
+
+### 🔗 Repositório
+
+<a href="https://github.com/Oliveira7-Dev/controle-financeiro">
+  <img src="https://img.shields.io/badge/Ver%20Projeto-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+---
+
+# 📊 GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oliveira7-Dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveira7-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 ---
 
