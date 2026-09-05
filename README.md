@@ -54,37 +54,43 @@ Atualmente, busco aprimorar minhas habilidades através de projetos acadêmicos 
 
 # 🚀 Projetos em Destaque
 
-## 💰 Sistema de Controle Financeiro
+## 💰 Controle Financeiro
 
-Aplicação web desenvolvida para **gerenciamento de receitas e despesas**, permitindo o controle de movimentações financeiras através de uma interface simples e organizada.
+Aplicação web para gerenciamento de receitas e despesas.
 
-### ⚙️ Funcionalidades
+`Python` `Flask` `SQLite` `HTML` `CSS`
 
-* 💵 Cadastro de receitas e despesas
-* ✏️ Edição de lançamentos
-* 🗑️ Exclusão de movimentações
-* 🔎 Filtro por tipo de lançamento
-* 📊 Dashboard com resumo financeiro
-* 💰 Cálculo automático de saldo
-* 🗄️ Persistência de dados com SQLite
-* ✅ Validação de formulários
-* 🧪 Testes automatizados
+🔗 [Ver projeto](https://github.com/Oliveira7-Dev/controle-financeiro)
 
-### 🛠️ Tecnologias utilizadas
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,html,css,git,github" />
-</p>
+## ☕ Gerenciador de Tarefas
 
-### 📂 Estrutura do projeto
+Aplicação em Java para criação, organização e controle de tarefas.
 
-O projeto foi desenvolvido utilizando uma estrutura modular, separando **rotas, acesso ao banco de dados, regras de persistência, templates, arquivos estáticos e testes**.
+`Java` `POO` `Git`
 
-### 🔗 Repositório
+🔗 [Ver projeto](https://github.com/Oliveira7-Dev/gerenciador-tarefas-java)
 
-<a href="https://github.com/Oliveira7-Dev/controle-financeiro">
-  <img src="https://img.shields.io/badge/Ver%20Projeto-GitHub-181717?style=for-the-badge&logo=github" />
-</a>
+---
+
+## 📦 Controle de Estoque
+
+Sistema para cadastro de produtos e gerenciamento de estoque.
+
+`C#` `.NET` `POO` `LINQ`
+
+🔗 [Ver projeto](https://github.com/Oliveira7-Dev/controle-estoque-csharp)
+
+---
+
+## 🔌 API de Catálogo
+
+API REST para gerenciamento de produtos com operações CRUD.
+
+`PHP` `REST` `JSON` `SQLite`
+
+🔗 [Ver projeto](https://github.com/Oliveira7-Dev/api-catalogo-php)
 
 ---
 
