@@ -136,11 +136,10 @@ API desenvolvida para praticar desenvolvimento back-end, rotas e manipulação d
 
 ### Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Oliveira7-Dev&show_icons=true&theme=github_dark&hide_border=true)
+![Resumo do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oliveira7-Dev&theme=github_dark)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveira7-Dev&layout=compact&theme=github_dark&hide_border=true)
-
-> Se os cards de estatísticas ficarem temporariamente indisponíveis, os botões acima continuam levando diretamente para o perfil e os repositórios.
+![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Oliveira7-Dev&theme=github_dark)
+![Linguagens por repositório](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Oliveira7-Dev&theme=github_dark)
 
 ---
 
