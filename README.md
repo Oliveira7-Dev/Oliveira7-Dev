@@ -1,4 +1,4 @@
-<h1 align="center">João Oliveira</h1>
+<h1 align="center">João Pedro Oliveira</h1>
 
 <h3 align="center">Desenvolvedor de Software | Engenharia de Software</h3>
 
