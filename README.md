@@ -88,16 +88,6 @@ O projeto foi desenvolvido utilizando uma estrutura modular, separando **rotas, 
 
 ---
 
-# 📊 GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Oliveira7-Dev&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveira7-Dev&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-
----
-
 # 🎓 Formação
 
 ### Engenharia de Software
@@ -122,12 +112,6 @@ O projeto foi desenvolvido utilizando uma estrutura modular, separando **rotas, 
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Oliveira7-Dev&show_icons=true)
-
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveira7-Dev&layout=compact)
----
 
 # 🔥 Contribuições
 
