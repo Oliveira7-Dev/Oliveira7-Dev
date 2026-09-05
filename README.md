@@ -1,18 +1,16 @@
-##João Pedro Oliveira#
+# 👨‍💻 João Oliveira
 
-##🎓 Estudante de Engenharia de Software#
+### 🎓 Estudante de Engenharia de Software — 4º Semestre
 
-Estudante de **Engenharia de Software, atualmente no 4º semestre**, com interesse em desenvolvimento de software e experiência acadêmica com diferentes linguagens e tecnologias.
+Estudante de **Engenharia de Software**, com conhecimentos em desenvolvimento de software e contato com diferentes linguagens e tecnologias.
 
-Possuo conhecimentos em **Java, Python, C#, PHP, JavaScript, HTML, CSS e SQL**, além de utilização de **Git e GitHub** para versionamento e desenvolvimento de projetos.
+Possuo conhecimentos em **Java, Python, C#, PHP, JavaScript, HTML, CSS e SQL**, além de experiência acadêmica com **Git e GitHub**, programação orientada a objetos, bancos de dados, desenvolvimento web e fundamentos de engenharia de software.
 
-Durante minha formação, venho desenvolvendo conhecimentos em **programação orientada a objetos, estruturas de dados, bancos de dados, desenvolvimento web, APIs e fundamentos de engenharia de software**.
-
-Meu objetivo é consolidar meus conhecimentos técnicos por meio de projetos práticos, desenvolver soluções bem estruturadas e evoluir continuamente como profissional da área de tecnologia.
+Busco constantemente aprimorar minhas habilidades técnicas através de projetos práticos e desafios de desenvolvimento.
 
 ---
 
-### 💻 Tecnologias
+# 💻 Tecnologias
 
 **🔤 Linguagens:**
 Java · Python · C# · PHP · JavaScript
@@ -28,7 +26,7 @@ Git · GitHub
 
 ---
 
-### 🧠 Conhecimentos
+# 🧠 Conhecimentos
 
 * 🔹 Programação Orientada a Objetos
 * 🔹 Lógica de Programação
@@ -36,12 +34,12 @@ Git · GitHub
 * 🔹 Desenvolvimento Web
 * 🔹 APIs
 * 🔹 Bancos de Dados
-* 🔹 Fundamentos de Engenharia de Software
+* 🔹 Engenharia de Software
 * 🔹 Versionamento de Código
 
 ---
 
-### 🎯 Áreas de Interesse
+# 🎯 Áreas de Interesse
 
 * 💻 Desenvolvimento de Software
 * ⚙️ Desenvolvimento Backend
@@ -53,15 +51,15 @@ Git · GitHub
 
 ---
 
-### 🎓 Formação
+# 🎓 Formação
 
 **Engenharia de Software**
-📍 4º semestre
+📚 4º semestre
 
 ---
 
-### 🚀 Objetivo
+# 🚀 Objetivo
 
 Aprimorar continuamente minhas habilidades em **desenvolvimento de software**, adquirir experiência prática e participar de projetos que contribuam para minha evolução técnica e profissional.
 
-**Sempre buscando transformar conhecimento em soluções.**
+**Construindo conhecimento através de código, projetos e prática.**
