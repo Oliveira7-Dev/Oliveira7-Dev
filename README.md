@@ -1,6 +1,6 @@
-# João Pedro Oliveira
+##João Pedro Oliveira#
 
-### 🎓 Estudante de Engenharia de Software
+##🎓 Estudante de Engenharia de Software#
 
 Estudante de **Engenharia de Software, atualmente no 4º semestre**, com interesse em desenvolvimento de software e experiência acadêmica com diferentes linguagens e tecnologias.
 
