@@ -176,12 +176,6 @@ Sistema para gerenciamento de produtos e estoque desenvolvido em C#.
 <br/><br/>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Oliveira7-Dev&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&include_all_commits=true&card_width=850&custom_title=Estatísticas%20do%20GitHub"
-/>
-
-<br/><br/>
-
-<img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveira7-Dev&layout=compact&theme=github_dark&hide_border=true&langs_count=6&card_width=850&custom_title=Linguagens%20nos%20repositórios"
 />
 
