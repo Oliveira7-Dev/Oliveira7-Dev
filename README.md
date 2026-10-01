@@ -166,15 +166,28 @@ Sistema para gerenciamento de produtos e estoque desenvolvido em C#.
 
 ## 📊 GitHub
 
-[![GitHub](https://img.shields.io/badge/Oliveira7--Dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oliveira7-Dev)
-[![Repositórios](https://img.shields.io/badge/Ver_todos_os_repositórios-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oliveira7-Dev?tab=repositories)
+<div align="center">
 
-### Estatísticas
+<img
+  width="100%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oliveira7-Dev&theme=github_dark"
+/>
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Oliveira7-Dev&show_icons=true&theme=github_dark&hide_border=true)
+<br/>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveira7-Dev&layout=compact&theme=github_dark&hide_border=true)
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=Oliveira7-Dev&show_icons=true&theme=github_dark&hide_border=true&hide_rank=true&include_all_commits=true&custom_title=Estatísticas%20do%20GitHub"
+/>
 
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliveira7-Dev&layout=compact&theme=github_dark&hide_border=true&langs_count=6&custom_title=Linguagens%20nos%20repositórios"
+/>
+
+</div>
+
+> 💡 As estatísticas públicas do GitHub não refletem integralmente projetos mantidos em repositórios privados, como o **Mesa Secreta**.
 ---
 
 ## 🎯 Objetivo
