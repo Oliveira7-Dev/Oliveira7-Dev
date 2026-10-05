@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://achadoutiloficialbr.onrender.com/sitemap.xml
